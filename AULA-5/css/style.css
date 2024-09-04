@@ -1,0 +1,18 @@
+.logo-mulheres-tech {
+    /* Altura */
+    height: 30rem;
+     /* Largura */
+    width: 30rem;
+     /* Cor de fundo */
+    background-color: purple;
+     /* Centralizar texto horizontalmente */
+    text-align: center;
+       /* Centralizar verticalmente */
+    line-height: 30rem;
+    /* Cor do texto */
+    color: yellow;
+    /* Família da fonte */
+    font-family: Arial, Helvetica, sans-serif;
+    /* Centralizar quadrado na horizonta */
+    margin: auto;
+}
